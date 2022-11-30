@@ -1,0 +1,22 @@
+[
+    {
+        "id": "b9366787-ee98-4d3b-a2b0-0dce4b2882bd",
+        "fullName": "Jadon Sancho",
+        "email": "sancho@gmail.com",
+        "age": 23,
+        "address": "Manchester",
+        "createdAt": "2022-07-02T10:21:40.246Z",
+        "updatedAt": "2022-07-02T10:32:42.119Z",
+        "avatar": "src/data/uploads/images/2022-7-2/avatar-1656757962081-393397109-191157979_323796915812894_2237413129562693519_n.jpg"
+    },
+    {
+        "id": "f197a837-6ee7-4642-8ba3-63d255d88810",
+        "fullName": "Eren Yeager",
+        "email": "Eren@manutd.com",
+        "age": 19,
+        "address": "Paradis Island",
+        "createdAt": "2022-07-02T12:27:06.305Z",
+        "updatedAt": "2022-07-02T12:27:06.305Z",
+        "avatar": "src/data/uploads/images/2022-7-2/avatar-1656764826294-925593315-unnamed.png"
+    }
+]
